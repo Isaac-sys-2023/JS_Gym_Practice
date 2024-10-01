@@ -1,0 +1,6 @@
+Icons: https://remixicon.com/
+Fonts: https://fonts.google.com/
+JS Functions: https://github.com/bedimcode/responsive-watches-website
+EmailJs: https://www.emailjs.com/
+ScrollReveal: https://scrollrevealjs.org/
+Netlify: https://www.netlify.com/
